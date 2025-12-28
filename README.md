@@ -16,6 +16,7 @@ Quickly contact trusted people when in danger
 To provide a lightweight and user-friendly safety application that assists users in quickly contacting trusted individuals during emergencies.
 
 **Target Audience**
+
 University students
 Working professionals
 Travelers
@@ -38,6 +39,7 @@ Version control used throughout development
 Clear commit history maintained
 
 **Working Flow of the App**
+
 Splash Screen: Displays app logo and handles initial navigation
 Main Screen: Bottom navigation controller
 Home Screen: SOS activation interface
@@ -49,6 +51,7 @@ Report Screen: Incident reporting interface
 More Screen: Additional app options
 
 **Documentation**
+
 Included:
 Project proposal
 Architecture explanation
@@ -57,6 +60,7 @@ User manual
 Screenshots & UI explanation
 
 **Academic Compliance**
+
 This project fulfills all course requirements:
 Cross-platform mobile development
 Local storage
@@ -108,6 +112,7 @@ sos_button.dart
 main.dart
 
 **Packages used**
+
 geolocator
 sqflite
 path
@@ -116,12 +121,14 @@ flutter_map
 latlong2
 
 **UI/UX Design Considerations**
+
 Minimal navigation
 High-contrast buttons for emergencies
 Clear icons and labels
 Fast access to SOS feature
 
 **Testing & Compatibility**
+
 Tested on:
 Android Emulator
 Chrome (Flutter Web – limited features)
