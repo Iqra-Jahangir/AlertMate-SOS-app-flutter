@@ -1,16 +1,28 @@
-# AlertMate-SOS
+**# AlertMate-SOS**
 
-A new Flutter project.
+AlertMate is a cross-platform mobile safety application built using Flutter.
+The app is designed to help users quickly send SOS alerts with their real-time location to emergency contacts during unsafe situations
 
-## Getting Started
+**Project Overview**
 
-This project is a starting point for a Flutter application.
+AlertMate addresses the growing need for personal safety, especially for students, travelers, and individuals who may find themselves in emergency situations.
+With a simple and intuitive interface, users can:
+Store emergency contacts locally
+Send SOS alerts with live location
+Quickly contact trusted people when in danger
 
-A few resources to get you started if this is your first Flutter project:
+**Key Features**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Live Location Access (GPS using Geolocator)
+SOS Alert System
+Quick Call & SMS to Emergency Contacts
+Local Storage using SQLite
+Clean & Responsive UI
+Persistent Contacts (saved even after app restart)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Team & Collaboration**
+
+This project was developed as a pair project following proper GitHub collaboration practices.
+Both contributors actively committed code
+Version control used throughout development
+Clear commit history maintained
