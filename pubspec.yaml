@@ -1,0 +1,32 @@
+name: mylaststringofsanity
+description: A new Flutter project.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite_common_ffi: ^2.3.0
+  path: 1.9.1
+
+  # LOCAL DATABASE
+  sqflite: ^2.3.0
+  uuid: ^4.4.0
+
+  # FEATURES YOU USE
+  url_launcher: ^6.1.10
+  geolocator: ^14.0.2
+  flutter_map: ^7.0.0
+  latlong2: ^0.9.1
+  http: ^1.2.0
+
+dev_dependencies:
+  flutter_lints: ^6.0.0
+
+
+flutter:
+  uses-material-design: true
