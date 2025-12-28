@@ -1,4 +1,4 @@
-# mylaststringofsanity
+# AlertMate-SOS
 
 A new Flutter project.
 
